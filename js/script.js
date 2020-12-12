@@ -28,7 +28,7 @@ divStartButton.addEventListener('click', rmStartButton);
 const h1 = document.querySelector('h1');
 // ###### end of START BUTTON ######
 
-// ###### CONTROLS BUTTONS ######
+
 function styleCtrlsButton() {
     this.classList.add('ctrlClick'); 
     playerMovesCounter++;
